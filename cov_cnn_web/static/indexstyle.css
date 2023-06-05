@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(184, 184, 184);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:rgb(0, 0, 0);
+}
+h1,p{
+  text-align: center;
+}
+
+.start {
+  padding-top: 100px;
+}
+#submitButton{
+  margin-left:120px;
+}
+th,tr{
+  color:rgb(0, 0, 0);
+}
+
+img {
+  display: flex;
+  max-width:300px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+}
